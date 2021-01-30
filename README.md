@@ -4,3 +4,4 @@ Olá! Vamos Cozinhar!!! :clap:
 
 - Lamen de Shoyu
 - Gohan Karê
+- Lamen de Miso
